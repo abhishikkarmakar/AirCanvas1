@@ -1,5 +1,5 @@
-from handTracker import *  # Importing HandTracker class from handTracker module
-import cv2
-import mediapipe as mp
-import numpy as np
-import random
+from handTracker import *  
+cv2
+mediapipe as mp
+numpy as np
+random
